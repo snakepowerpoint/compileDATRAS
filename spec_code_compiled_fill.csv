@@ -1,0 +1,244 @@
+SpecCodeType,SpecCode,Survey,Name,CommonName
+T,172902,BTSdata,Pleuronectes platessa,plaice
+T,173001,BTSdata,Solea vulgaris,Solea vulgaris
+T,172881,BTSdata,Limanda limanda,common dab
+W,127160,BTSdata,Solea solea,sole
+W,127139,BTSdata,Limanda limanda,common dab
+W,127150,BTSdata,Scophthalmus rhombus,brill
+W,127143,BTSdata,Pleuronectes platessa,plaice
+W,127149,BTSdata,Scophthalmus maximus,Scophthalmus maximus
+W,127126,BTSdata,Arnoglossus laterna,scaldfish
+W,127153,BTSdata,Buglossidium luteum,solenette
+W,127190,BTSdata,Agonus cataphractus,hook-nose
+T,164758,BTSdata,Merlangius merlangus,whiting
+T,164712,BTSdata,Gadus morhua,Atlantic cod
+W,126436,BTSdata,Gadus morhua,Atlantic cod
+W,126438,BTSdata,Merlangius merlangus,whiting
+W,126029,BTSdata,Dicentrarchus,Wolfsbarsch
+W,127141,BTSdata,Platichthys flesus,flounder
+T,164744,BTSdata,Melanogrammus aeglefinus,haddock
+T,172749,BTSdata,Scophthalmus rhombus,kite
+T,172894,BTSdata,Platichthys flesus,flounder
+T,172835,BTSdata,Lepidorhombus whiffiagonis,sail-fluke
+W,126437,BTSdata,Melanogrammus aeglefinus,haddock
+W,127146,BTSdata,Lepidorhombus whiffiagonis,sail-fluke
+W,126444,BTSdata,Trisopterus esmarkii,Norway pout
+W,127140,BTSdata,Microstomus kitt,lemon sole
+W,126555,BTSdata,Lophius piscatorius,monkfish
+W,126484,BTSdata,Merluccius merluccius,hake
+W,154473,BTSdata,Psetta maxima,turbot
+W,126975,BTSdata,Dicentrarchus labrax,seabass
+W,127136,BTSdata,Glyptocephalus cynoglossus,flet
+W,127137,BTSdata,Hippoglossus platessoides,American plaice
+W,274304,BTSdata,Microchirus variegatus,Microchirus variegatus
+W,127138,BTSdata,Hippoglossus hippoglossus,halibut
+W,107253,BTSdata,Homarus gammarus,European lobster
+W,107276,BTSdata,Cancer pagurus,edible crab
+W,150630,BTSdata,Echiichthys vipera,lesser weever
+W,127147,BTSdata,Phrynorhombus norvegicus,Norwegian topknot
+W,127156,BTSdata,Pegusa lascaris,French sole
+W,126554,BTSdata,Lophius budegassa,black-bellied angler
+W,126441,BTSdata,Pollachius virens,pollock
+W,126461,BTSdata,Molva molva,ling
+W,105887,BTSdata,Raja montagui,spotted ray
+W,105883,BTSdata,Raja clavata,thornback ray
+W,105814,BTSdata,Scyliorhinus canicula,sandy dogfish
+W,105876,BTSdata,Leucoraja naevus,cuckoo ray
+W,127427,BTSdata,Zeus faber,dory
+W,126178,BTSdata,Chelidonichthys,Chelidonichthys
+W,105885,BTSdata,Raja microocellata,painted ray
+W,126180,BTSdata,Trigla,Trigla
+W,105891,BTSdata,Raja undulata,undulate ray
+W,105815,BTSdata,Scyliorhinus stellaris,greater spotted dogfish
+W,154461,BTSdata,Trigloporus,Trigloporus
+W,126986,BTSdata,Mullus surmuletus,red mullet
+W,105821,BTSdata,Mustelus asterias,starry smooth hound
+W,150629,BTSdata,Echiichthys,Echiichthys
+W,367297,BTSdata,Raja brachyura,Raja brachyura
+W,150636,BTSdata,Eutrigla,Eutrigla
+W,140712,BTSdata,Pecten maximus,king scallop
+W,126285,BTSdata,Conger conger,conger
+W,105820,BTSdata,Galeorhinus galeus,tope
+W,150662,BTSdata,Aspitrigla cuculus,red gurnard
+W,127262,BTSdata,Chelidonichthys lucerna,tub gurnard
+W,271684,BTSdata,Torpedo marmorata,marbled electric ray
+W,127066,BTSdata,Spondyliosoma cantharus,Black Sea-bream
+W,150637,BTSdata,Eutrigla gurnardus,grey gurnard
+T,161722,NSIBTSdata,Clupea harengus,hering
+T,164756,NSIBTSdata,Trisopterus esmarkii,Norway pout
+T,161789,NSIBTSdata,Sprattus sprattus,sprat
+T,164727,NSIBTSdata,Pollachius virens,pollock
+T,172414,NSIBTSdata,Scomber scombrus,Atlantic mackerel
+T,171670,NSIBTSdata,Ammodytidae,sand lances
+W,126417,NSIBTSdata,Clupea harengus,haring
+W,127023,NSIBTSdata,Scomber scombrus,Atlantic mackerel
+W,126425,NSIBTSdata,Sprattus sprattus,sprat
+T,164755,NSIBTSdata,Trisopterus luscus,pout
+T,171671,NSIBTSdata,Ammodytes,Ammodytes
+T,171682,NSIBTSdata,Hyperoplus lanceolatus,launce
+T,167044,NSIBTSdata,Eutrigla gurnardus,grey gurnard
+T,164728,NSIBTSdata,Pollachius pollachius,pollack
+T,164501,NSIBTSdata,Lophius piscatorius,monkfish
+T,164748,NSIBTSdata,Enchelyopus cimbrius,fourbearded rockling
+T,164740,NSIBTSdata,Brosme brosme,tusk
+T,164774,NSIBTSdata,Micromesistius poutassou,blue whiting
+T,171341,NSIBTSdata,Anarhichas lupus,Atlantic wolffish
+T,164795,NSIBTSdata,Merluccius merluccius,hake
+T,164760,NSIBTSdata,Molva molva,ling
+T,164754,NSIBTSdata,Trisopterus minutus,cepelan
+T,164772,NSIBTSdata,Gadiculus argenteus,silvery pout
+T,172933,NSIBTSdata,Hippoglossus hippoglossus,halibut
+T,170317,NSIBTSdata,Dicentrarchus labrax,seabass
+T,167318,NSIBTSdata,Myoxocephalus scorpius,sculpin
+W,127203,NSIBTSdata,Myoxocephalus scorpius,sculpin
+W,126445,NSIBTSdata,Trisopterus luscus,pout
+W,105865,NSIBTSdata,Amblyraja radiata,thorny skate
+T,616195,NSIBTSdata,Psetta maxima,turbot
+W,126822,NSIBTSdata,Trachurus trachurus,horse mackerel
+T,168588,NSIBTSdata,Trachurus trachurus,horse mackerel
+W,126758,NSIBTSdata,Anarhichas lupus,Atlantic wolffish
+W,126447,NSIBTSdata,Brosme brosme,tusk
+W,126793,NSIBTSdata,Callionymus maculatus,spotted dragonet
+W,126450,NSIBTSdata,Enchelyopus cimbrius,fourbearded rockling
+W,126446,NSIBTSdata,Trisopterus minutus,cepelan
+W,126716,NSIBTSdata,Argentina sphyraena,argentine
+W,138139,NSIBTSdata,Loligo,loligo
+W,126421,NSIBTSdata,Sardina pilcharsdus,pilchard
+W,126792,NSIBTSdata,Callionymus lyra,dragonet
+W,126752,NSIBTSdata,Ammodytes tobianus,lesser sand eel
+W,126426,NSIBTSdata,Engraulis encrasicolus,European anchovy
+W,126715,NSIBTSdata,Argentina silus,Atlantic argentine
+W,127255,NSIBTSdata,Sebastes vivparus,Norway haddock
+W,126435,NSIBTSdata,Gadiculus argenteus,silvery pout
+W,126104,NSIBTSdata,Lycodes,Lycodes
+W,125566,NSIBTSdata,Stichaeidae,shannies
+W,127385,NSIBTSdata,Nerophis ophidion,straight-nosed pipefish
+W,127082,NSIBTSdata,Trachinus draco,weever
+W,293018,NSIBTSdata,Zeugopterus norvegicus,Norwegian topknot
+W,11760,NSIBTSdata,Ommastrephidae,Ommastrephidae
+W,126440,NSIBTSdata,Pollachius pollachius,green pollack
+W,274877,NSIBTSdata,Chelidonichthys lucernus,Chelidonichthys lucernus
+W,105923,NSIBTSdata,Squalus acanthias,spiny dogfish
+W,126439,NSIBTSdata,Micromesistius poutassou,blue whiting
+W,126756,NSIBTSdata,Hyperoplus lanceolatus,launce
+W,127259,NSIBTSdata,Chelidonichthys cuculus,Chelidonichthys cuculus
+W,126663,NSIBTSdata,Echiodon drummondii,pearlfish
+W,125493,NSIBTSdata,Lophiidae,goosefishes
+W,127312,NSIBTSdata,Maurolicus muelleri,pearlsides
+W,127379,NSIBTSdata,Entelurus aequoreus,snake pipefish
+W,105872,NSIBTSdata,Dipturus oxyrinchus,long-nosed skate
+W,105812,NSIBTSdata,Galeus melastomus,black-mouthed dogfish
+W,105873,NSIBTSdata,Leucoraja circularis,sandy ray
+W,126459,NSIBTSdata,Molva dypterygia,blue ling
+W,127251,NSIBTSdata,Helicolenus dactylopterus,blackbelly rockfish
+W,125617,NSIBTSdata,Zeidae,dories
+W,11718,NSIBTSdata,Octopoda,octopuses
+W,126795,NSIBTSdata,Callionymus reticulatus,reticulated dragonet
+W,125516,NSIBTSdata,Ammodytidae,sand lances
+W,154675,NSIBTSdata,Lumpenus lampretaeformis,snakeblenny
+W,274100,NSIBTSdata,Lycodes gracilis,Lycodes gracilis
+W,126352,NSIBTSdata,Arctozenus risso,white barracudina
+W,127214,NSIBTSdata,Cyclopterus lumpus,lumpfish
+T,172873,NSIBTSdata,Ampharana antarctica,Ampharana antarctica
+W,126458,NSIBTSdata,Gaidropsarus vulgaris,rockling
+W,126456,NSIBTSdata,Gaidropsarus macrophthalmus,big-eyed rockling
+W,107205,NSIBTSdata,Lithodes maja,northern stone crab
+W,127419,NSIBTSdata,Capros aper,boar-fish
+W,11709,NSIBTSdata,Coleoidea,Coleoidea
+W,105824,NSIBTSdata,Chimaera monstrosa,rat fish
+W,151324,NSIBTSdata,Sebastes norvegicus,golden redfish
+W,127072,NSIBTSdata,Leptoclinus maculatus,daubed shanny
+W,153131,NSIBTSdata,Alloteuthis subulata,European common squid
+W,138036,NSIBTSdata,Gonatus,Gonatus
+W,127235,NSIBTSdata,Cottunculus microps,polar sculpin
+W,126501,NSIBTSdata,Phycis blennoides,greater forkbeard
+W,101174,NSIBTSdata,Petromyzon marinus,green sea lamprey
+W,126759,NSIBTSdata,Anarhichas minor,spotted wolffish
+W,105869,NSIBTSdata,Dipturus batis,common skate
+W,140600,NSIBTSdata,Eledone cirrhosa,horned octopus
+W,141444,NSIBTSdata,Sepia officinalis,common cuttlefish
+W,105822,NSIBTSdata,Mustelus mustelus,smooth hound
+W,105874,NSIBTSdata,Leucoraja fullonica,shagreen ray
+W,125537,NSIBTSdata,Gobiidae,gobies
+W,126451,NSIBTSdata,Gaidropsarus argentatus,Arctic rockling
+W,138477,NSIBTSdata,Sepia,Sepia
+W,140624,NSIBTSdata,Todarodes sagittatus,European flying squid
+W,126154,NSIBTSdata,Triglops,Triglops
+W,126751,NSIBTSdata,Ammodytes marinus,Raitt's sand eel
+T,172888,NSIBTSdata,Microstomus kitt,lemon sole
+W,126985,NSIBTSdata,Mullus barbatus,red mullet
+W,105762,NSIBTSdata,Dipturus,Dipturus
+W,101170,NSIBTSdata,Myxine glutinosa,Atlantic hagfish
+W,125589,NSIBTSdata,Cottidae,sculpins
+T,173002,NSIBTSdata,Solea solea,sole
+T,169418,NSIBTSdata,Mullus surmuletus,goatfish
+W,127378,NSIBTSdata,Macroramphosus scolopax,snipefish
+W,416668,NSIBTSdata,Loligo forbesi,common squid
+W,125508,NSIBTSdata,Argentinidae,Argentines
+W,125999,NSIBTSdata,Pomatoschistus,Pomatoschistus
+W,140625,NSIBTSdata,Todaropsis eblanae,lesser flying squid
+W,126415,NSIBTSdata,Alosa fallax,twaite
+W,126281,NSIBTSdata,Anguilla anguilla,European eel
+W,140271,NSIBTSdata,Loligo vulgaris,lon-finned squid
+W,107254,NSIBTSdata,Nephrops norvegicus,Norway lobster
+W,126755,NSIBTSdata,Hyperoplus immaculatus,Corbin's sandeel
+W,126754,NSIBTSdata,Gymnammodytes semisquamatus,smooth sandeel
+W,126375,NSIBTSdata,Belone belone,garfish
+W,126996,NSIBTSdata,Pholis gunnellus,butterfish
+W,126977,NSIBTSdata,Chelon labrosus,thick-lipped mullet
+W,127389,NSIBTSdata,Syngnathus rostellatus,lesser pipefish
+W,105732,NSIBTSdata,Mustelus,Mustelus
+W,126783,NSIBTSdata,Brama brama,Atlantic pomfret
+W,127205,NSIBTSdata,Triglops murrayi,moustache sculpin
+W,126980,NSIBTSdata,Liza ramada,thin-lipped mullet
+W,126125,NSIBTSdata,Zeugopterus,Zeugopterus
+W,127118,NSIBTSdata,Lycodes vahlii,Vahl's eelpout
+W,126413,NSIBTSdata,Alosa alosa,mayfish
+W,141452,NSIBTSdata,Sepietta oweniana,Sepietta oweniana
+W,494117,NSIBTSdata,Sepiola tridens,Sepiola tridens
+W,141449,NSIBTSdata,Rossia macrosoma,stout bobtail squid
+W,141457,NSIBTSdata,Sepiola ligulata,tongue bobtail squid
+W,105913,NSIBTSdata,Etmopterus spinax,velvet-belly
+W,141450,NSIBTSdata,Sepietta neglecta,elegant bobtail squid
+W,711846,NSIBTSdata,Dipturus intermedius,flapper skate
+W,153083,NSIBTSdata,Rossia palperbrosa,warty bobtail squid
+W,105841,NSIBTSdata,Lamna nasus,Atlantic mackerel shark
+W,138482,NSIBTSdata,Sepietta,Sepietta
+W,140621,NSIBTSdata,Illex coindetii,southern shortfin squid
+W,126878,NSIBTSdata,Crystallogobius linearis,crystal goby
+W,141443,NSIBTSdata,Sepia elegans,elegant cuttlefish
+W,126928,NSIBTSdata,Pomatoschistus minutus,sand goby
+W,138483,NSIBTSdata,Sepiola,Sepiola
+W,138281,NSIBTSdata,Todarodes,Todarodes
+W,11725,NSIBTSdata,Sepiolidae,Sepiolidae
+W,127219,NSIBTSdata,Liparis liparis,sea snail
+W,127145,NSIBTSdata,Lepidorhombus boscii,fourspot meagrim
+W,125885,NSIBTSdata,Argentina,Argentina
+W,126868,NSIBTSdata,Aphia minuta,transparent goby
+W,106737,NSIBTSdata,Lithodidae,stone crabs
+W,105894,NSIBTSdata,Rajella fyllae,round skate
+W,140270,NSIBTSdata,Loligo forbesii,Loligo forbesii
+W,125909,NSIBTSdata,Ammodytes,Ammodytes 
+W,126929,NSIBTSdata,Pomatoschistus norvegicus,Norway goby
+W,711847,NSIBTSdata,Dipturus flossada,blue skate
+W,107275,NSIBTSdata,Cancer bellianus,Cancer bellianus
+W,138481,NSIBTSdata,Rossia,Rossia
+W,127187,BITSdata,Salmo trutta,trout
+W,151308,BITSdata,Sander lucioperca,zander
+W,127186,BITSdata,Salmo salar,Atlantic salmon
+T,172748,BITSdata,Scophthalmus maximus,Scophthalmus maximus
+W,126736,BITSdata,Osmerus eperlanus,smelt
+W,151353,BITSdata,Perca fluviatilis,European perch
+W,127123,BITSdata,Zoarces viviparus,ocean pout
+W,171982,BITSdata,Acanthascus (Rhabdocalyptus) mirabilis,Acanthascus (Rhabdocalyptus) mirabilis
+W,126927,BITSdata,Pomatoschistus microps,common goby
+W,126806,BITSdata,Caranx rhonchus,false scad
+W,126916,BITSdata,Neogobius melanostomus,round goby
+W,126505,BITSdata,Gasterosteus aculeatus,threespine stickletback
+W,126925,DYFSdata,Pomatoschistus lozanoi,Lozano's goby
+W,105851,FRCGFSdata,Dasyatis pastinaca,stingray
+W,105833,IEIGFSdata,Hexanchus griseus,six-gill shark
+W,712407,IEIGFSdata,Chimaera opalescens,Chimaera opalescens
+W,154462,SCOWCGFSdata,Trigloporus lastoviza,streaked gurnard
+W,151501,SCOWCGFSdata,Labrus mixtus,cuckoo wrasse
+W,126460,SPPORCdata,Molva macrophthalma,Spanish ling
