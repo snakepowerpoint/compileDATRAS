@@ -1,4 +1,4 @@
-wd = "C:/DATRAS_compile"
+wd = "C:/Users/b9930/Google ¶³ºÝµwºÐ/publication/compile_DATRAS"
 setwd(wd)
 
 spec_code_compiled = read.csv("spec_code_compiled_fill.csv")
@@ -20,8 +20,7 @@ compute_length_for_each_sp = function(survey, years, quarters){
     spec_stat = rbind(spec_stat, 
                       data.frame(spec_code_type, spec_code, spec_name, n, end_time))
   }
-  
-  write.csv(spec_stat, file=paste0(survey, '.csv'))
+  return(spec_stat)
 }
 
 # summarize time series
