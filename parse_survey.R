@@ -175,48 +175,5 @@ rm(list=c(data, data_list))
 
 
 ### Appendix
-# util function
-parse_survey = function(survey, years, quarters){
-    data_list <<- split_data_by_gear(survey)
-    
-    spec_stat = data.frame(matrix(nrow=0, ncol=6))
-    colnames(spec_stat) = c("spec_code_type", "spec_code", "name", "n", "end_time", "gear")
-    for (data_name in data_list){
-        temp_spec_stat = compute_length_for_each_sp(data_name, years=years, quarters=quarters)
-        temp_spec_stat$gear = strsplit(data_name, split="_")[[1]][2]
-        spec_stat = rbind(spec_stat, temp_spec_stat)
-    }
-    write.csv(spec_stat, file=paste0(survey, '.csv'))
-}
-
-split_data_by_gear = function(data_name){
-    data = get(data_name)
-    data_gear = split(data, f=data$Gear)
-    
-    data_list = c()
-    for (gear_name in names(data_gear)){
-        data_gear_name = paste(data_name, gear_name, sep="_")
-        assign(data_gear_name, 
-               data_gear[[gear_name]],
-               envir = .GlobalEnv)
-        data_list = c(data_list, data_gear_name)
-    }
-    return(data_list)
-}
 
 
-## testing code
-time_point_species = summarize_time_point(data=get(data), years=years, quarters=quarters)
-(test = time_point_species[[1]])
-
-spec_stat = data.frame(matrix(nrow=0, ncol=3))
-colnames(spec_stat) = c("spec_code_type", "spec_code", "n")
-for (spec_code in names(time_point_species)){
-    time_point = time_point_species[[spec_code]]
-    spec_code_type = unique(time_point$spec_code_type)
-    n = max(time_point$counts)
-    spec_stat = rbind(spec_stat, data.frame(spec_code_type, spec_code, n))
-}
-spec_stat
-
-write.csv(spec_stat, file=paste0(data, '.csv'))

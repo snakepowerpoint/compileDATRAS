@@ -5,6 +5,36 @@ spec_code_compiled = read.csv("spec_code_compiled_fill.csv")
 
 
 ### utility function
+# function to parse surveys and save output
+parse_survey = function(survey, years, quarters){
+    data_list <<- split_data_by_gear(survey)
+    
+    spec_stat = data.frame(matrix(nrow=0, ncol=6))
+    colnames(spec_stat) = c("spec_code_type", "spec_code", "name", "n", "end_time", "gear")
+    for (data_name in data_list){
+        temp_spec_stat = compute_length_for_each_sp(data_name, years=years, quarters=quarters)
+        temp_spec_stat$gear = strsplit(data_name, split="_")[[1]][2]
+        spec_stat = rbind(spec_stat, temp_spec_stat)
+    }
+    write.csv(spec_stat, file=paste0(survey, '.csv'))
+}
+
+# function to split data by gear
+split_data_by_gear = function(data_name){
+    data = get(data_name)
+    data_gear = split(data, f=data$Gear)
+    
+    data_list = c()
+    for (gear_name in names(data_gear)){
+        data_gear_name = paste(data_name, gear_name, sep="_")
+        assign(data_gear_name, 
+               data_gear[[gear_name]],
+               envir = .GlobalEnv)
+        data_list = c(data_list, data_gear_name)
+    }
+    return(data_list)
+}
+
 # function to compute time series length for each species in the survey
 compute_length_for_each_sp = function(survey, years, quarters){
   time_point_species = summarize_time_point(data=get(survey), years=years, quarters=quarters)
@@ -78,3 +108,4 @@ check_continuous = function(time_series){
   return(counts)
 }
 #check_continuous(time_point)
+
