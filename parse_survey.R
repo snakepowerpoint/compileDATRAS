@@ -1,11 +1,10 @@
-wd = "C:/Users/b9930/Google ¶³ºÝµwºÐ/publication/compile_DATRAS"
+wd = "C:\\Users\\b9930\\Google ¶³ºÝµwºÐ\\publication\\compile_DATRAS\\"
 setwd(wd)
 
 source("processing_utils.R")
 
 
 ### parse long survey in the North Sea
-# please run util functions in the end of the script
 # BTS: Beam Trawl Survey
 data = "BTSdata"
 survey_path = paste0(file.path(wd, "survey_north_sea", data), ".RData")
@@ -174,6 +173,6 @@ parse_survey(data, years, quarters)
 rm(list=c(data, data_list))
 
 
-### Appendix
 
+### Appendix
 
