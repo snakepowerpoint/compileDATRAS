@@ -1,0 +1,204 @@
+Code type,Code,Species name,Common name
+T,164712,Gadus morhua,Atlantic cod
+T,164758,Merlangius merlangus,whiting
+T,161722,Clupea harengus,hering
+T,161789,Sprattus sprattus,sprat
+T,164744,Melanogrammus aeglefinus,haddock
+T,164756,Trisopterus esmarkii,Norway pout
+T,172902,Pleuronectes platessa,plaice
+T,164727,Pollachius virens,pollock
+T,172414,Scomber scombrus,Atlantic mackerel
+T,171682,Hyperoplus lanceolatus,launce
+T,171671,Ammodytes,Ammodytes
+T,167044,Eutrigla gurnardus,grey gurnard
+T,164728,Pollachius pollachius,pollack
+T,164501,Lophius piscatorius,monkfish
+T,164748,Enchelyopus cimbrius,fourbearded rockling
+T,164740,Brosme brosme,tusk
+T,173001,Solea vulgaris,Solea vulgaris
+T,164774,Micromesistius poutassou,blue whiting
+T,171341,Anarhichas lupus,Atlantic wolffish
+T,164795,Merluccius merluccius,hake
+T,164760,Molva molva,ling
+T,164755,Trisopterus luscus,pout
+T,164754,Trisopterus minutus,cepelan
+T,164772,Gadiculus argenteus,silvery pout
+T,172933,Hippoglossus hippoglossus,halibut
+T,170317,Dicentrarchus labrax,seabass
+T,167318,Myoxocephalus scorpius,sculpin
+W,126437,Melanogrammus aeglefinus,haddock
+W,126417,Clupea harengus,haring
+W,126438,Merlangius merlangus,whiting
+W,126444,Trisopterus esmarkii,Norway pout
+W,126436,Gadus morhua,Atlantic cod
+W,126425,Sprattus sprattus,sprat
+W,126461,Molva molva,ling
+W,126441,Pollachius virens,pollock
+W,127203,Myoxocephalus scorpius,sculpin
+W,126445,Trisopterus luscus,pout
+W,127023,Scomber scombrus,Atlantic mackerel
+W,126484,Merluccius merluccius,hake
+W,127143,Pleuronectes platessa,plaice
+W,105865,Amblyraja radiata,thorny skate
+T,616195,Psetta maxima,turbot
+T,172749,Scophthalmus rhombus,kite
+W,126822,Trachurus trachurus,horse mackerel
+T,168588,Trachurus trachurus,horse mackerel
+W,127139,Limanda limanda,common dab
+W,150637,Eutrigla gurnardus,grey gurnard
+W,127137,Hippoglossus platessoides,American plaice
+W,127146,Lepidorhombus whiffiagonis,sail-fluke
+W,126758,Anarhichas lupus,Atlantic wolffish
+W,126447,Brosme brosme,tusk
+W,127140,Microstomus kitt,lemon sole
+W,126446,Trisopterus minutus,cepelan
+W,126555,Lophius piscatorius,monkfish
+W,126450,Enchelyopus cimbrius,fourbearded rockling
+W,127136,Glyptocephalus cynoglossus,flet
+W,126793,Callionymus maculatus,spotted dragonet
+W,126715,Argentina silus,Atlantic argentine
+W,126426,Engraulis encrasicolus,European anchovy
+W,126716,Argentina sphyraena,argentine
+W,138139,Loligo,loligo
+W,126421,Sardina pilcharsdus,pilchard
+W,126792,Callionymus lyra,dragonet
+W,126752,Ammodytes tobianus,lesser sand eel
+W,105821,Mustelus asterias,starry smooth hound
+W,125566,Stichaeidae,shannies
+W,126104,Lycodes,Lycodes
+W,126435,Gadiculus argenteus,silvery pout
+W,127255,Sebastes vivparus,Norway haddock
+W,127385,Nerophis ophidion,straight-nosed pipefish
+W,293018,Zeugopterus norvegicus,Norwegian topknot
+W,127149,Scophthalmus maximus,Scophthalmus maximus
+W,127082,Trachinus draco,weever
+W,11760,Ommastrephidae,Ommastrephidae
+W,126440,Pollachius pollachius,green pollack
+W,274877,Chelidonichthys lucernus,Chelidonichthys lucernus
+W,150630,Echiichthys vipera,lesser weever
+W,127190,Agonus cataphractus,hook-nose
+W,105923,Squalus acanthias,spiny dogfish
+W,126439,Micromesistius poutassou,blue whiting
+W,105814,Scyliorhinus canicula,sandy dogfish
+W,107276,Cancer pagurus,edible crab
+W,105887,Raja montagui,spotted ray
+W,126756,Hyperoplus lanceolatus,launce
+W,105883,Raja clavata,thornback ray
+W,105876,Leucoraja naevus,cuckoo ray
+W,127259,Chelidonichthys cuculus,Chelidonichthys cuculus
+W,126663,Echiodon drummondii,pearlfish
+W,125493,Lophiidae,goosefishes
+W,127312,Maurolicus muelleri,pearlsides
+W,127379,Entelurus aequoreus,snake pipefish
+W,105872,Dipturus oxyrinchus,long-nosed skate
+W,105812,Galeus melastomus,black-mouthed dogfish
+W,105873,Leucoraja circularis,sandy ray
+W,126459,Molva dypterygia,blue ling
+W,127251,Helicolenus dactylopterus,blackbelly rockfish
+W,125617,Zeidae,dories
+W,11718,Octopoda,octopuses
+W,126795,Callionymus reticulatus,reticulated dragonet
+W,127150,Scophthalmus rhombus,brill
+W,126554,Lophius budegassa,black-bellied angler
+W,125516,Ammodytidae,sand lances
+W,127138,Hippoglossus hippoglossus,halibut
+W,154675,Lumpenus lampretaeformis,snakeblenny
+W,274100,Lycodes gracilis,Lycodes gracilis
+W,126352,Arctozenus risso,white barracudina
+W,105820,Galeorhinus galeus,tope
+W,127214,Cyclopterus lumpus,lumpfish
+T,172873,Ampharana antarctica,Ampharana antarctica
+W,126458,Gaidropsarus vulgaris,rockling
+W,126986,Mullus surmuletus,red mullet
+W,126456,Gaidropsarus macrophthalmus,big-eyed rockling
+W,107205,Lithodes maja,northern stone crab
+W,127419,Capros aper,boar-fish
+W,11709,Coleoidea,Coleoidea
+W,127126,Arnoglossus laterna,scaldfish
+W,105824,Chimaera monstrosa,rat fish
+W,151324,Sebastes norvegicus,golden redfish
+W,127072,Leptoclinus maculatus,daubed shanny
+W,127160,Solea solea,sole
+W,153131,Alloteuthis subulata,European common squid
+W,138036,Gonatus,Gonatus
+W,127235,Cottunculus microps,polar sculpin
+W,126501,Phycis blennoides,greater forkbeard
+W,101174,Petromyzon marinus,green sea lamprey
+W,126759,Anarhichas minor,spotted wolffish
+W,140600,Eledone cirrhosa,horned octopus
+W,105869,Dipturus batis,common skate
+W,141444,Sepia officinalis,common cuttlefish
+W,105822,Mustelus mustelus,smooth hound
+W,367297,Raja brachyura,Raja brachyura
+W,105874,Leucoraja fullonica,shagreen ray
+W,125537,Gobiidae,gobies
+W,274304,Microchirus variegatus,Microchirus variegatus
+W,126451,Gaidropsarus argentatus,Arctic rockling
+W,105815,Scyliorhinus stellaris,greater spotted dogfish
+W,138477,Sepia,Sepia
+W,140624,Todarodes sagittatus,European flying squid
+W,126154,Triglops,Triglops
+W,126751,Ammodytes marinus,Raitt's sand eel
+T,172888,Microstomus kitt,lemon sole
+W,126985,Mullus barbatus,red mullet
+W,105762,Dipturus,Dipturus
+W,101170,Myxine glutinosa,Atlantic hagfish
+W,125589,Cottidae,sculpins
+T,173002,Solea solea,sole
+T,169418,Mullus surmuletus,goatfish
+W,127378,Macroramphosus scolopax,snipefish
+W,127427,Zeus faber,dory
+W,416668,Loligo forbesi,common squid
+W,150636,Eutrigla,Eutrigla
+W,126180,Trigla,Trigla
+W,126178,Chelidonichthys,Chelidonichthys
+W,125508,Argentinidae,Argentines
+W,127153,Buglossidium luteum,solenette
+W,150629,Echiichthys,Echiichthys
+W,125999,Pomatoschistus,Pomatoschistus
+W,140625,Todaropsis eblanae,lesser flying squid
+W,127141,Platichthys flesus,flounder
+W,126415,Alosa fallax,twaite
+W,126281,Anguilla anguilla,European eel
+W,107253,Homarus gammarus,European lobster
+W,140271,Loligo vulgaris,lon-finned squid
+W,107254,Nephrops norvegicus,Norway lobster
+W,126755,Hyperoplus immaculatus,Corbin's sandeel
+W,126754,Gymnammodytes semisquamatus,smooth sandeel
+W,126975,Dicentrarchus labrax,seabass
+W,126375,Belone belone,garfish
+W,126996,Pholis gunnellus,butterfish
+W,126977,Chelon labrosus,thick-lipped mullet
+W,127389,Syngnathus rostellatus,lesser pipefish
+W,105732,Mustelus,Mustelus
+W,126783,Brama brama,Atlantic pomfret
+W,127205,Triglops murrayi,moustache sculpin
+W,126980,Liza ramada,thin-lipped mullet
+W,140712,Pecten maximus,king scallop
+W,126125,Zeugopterus,Zeugopterus
+W,127118,Lycodes vahlii,Vahl's eelpout
+W,127262,Chelidonichthys lucerna,tub gurnard
+W,126413,Alosa alosa,mayfish
+W,141452,Sepietta oweniana,Sepietta oweniana
+W,494117,Sepiola tridens,Sepiola tridens
+W,141449,Rossia macrosoma,stout bobtail squid
+W,141457,Sepiola ligulata,tongue bobtail squid
+W,105913,Etmopterus spinax,velvet-belly
+W,141450,Sepietta neglecta,elegant bobtail squid
+W,711846,Dipturus intermedius,flapper skate
+W,153083,Rossia palperbrosa,warty bobtail squid
+W,105841,Lamna nasus,Atlantic mackerel shark
+W,138482,Sepietta,Sepietta
+W,140621,Illex coindetii,southern shortfin squid
+W,126878,Crystallogobius linearis,crystal goby
+W,141443,Sepia elegans,elegant cuttlefish
+W,126928,Pomatoschistus minutus,sand goby
+W,138483,Sepiola,Sepiola
+W,138281,Todarodes,Todarodes
+W,11725,Sepiolidae,Sepiolidae
+W,127219,Liparis liparis,sea snail
+W,127145,Lepidorhombus boscii,fourspot meagrim
+W,125885,Argentina,Argentina
+W,126868,Aphia minuta,transparent goby
+W,106737,Lithodidae,stone crabs
+W,105894,Rajella fyllae,round skate
