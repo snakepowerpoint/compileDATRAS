@@ -1,8 +1,16 @@
-wd = "C:/DATRAS_compile"
+wd = "C:\\Users\\b9930\\Google ¶³ºÝµwºÐ\\publication\\compile_DATRAS\\"
 setwd(wd)
 
 spec_code = data.frame(matrix(nrow=0, ncol=3))
 colnames(spec_code) = c("SpecCodeType", "SpecCode", "survey")
+
+
+### util functions
+get_unique_spec_code = function(survey){
+    spec_code = unique(subset(get(survey), select=c(SpecCodeType, SpecCode)))
+    spec_code["Survey"] = survey
+    return(spec_code)
+}
 
 
 ### long survey in the North Sea
@@ -68,11 +76,4 @@ for (i in 1:dim(spec_code)[1]){
 
 write.csv(spec_code, "spec_code_compiled.csv", row.names=FALSE)
 
-
-### util functions
-get_unique_spec_code = function(survey){
-    spec_code = unique(subset(get(survey), select=c(SpecCodeType, SpecCode)))
-    spec_code["Survey"] = survey
-    return(spec_code)
-}
 

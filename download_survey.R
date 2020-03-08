@@ -57,7 +57,7 @@ getDatrasDataOverview(surveys='SWC-IBTS')  # 1990-2010 Q1 & 4 (n=42, 1985-1989 Q
 ### Long survey in the North Sea
 BTSdata <- getDATRAS(record="CA", survey="BTS", years=1987:2018, quarters=1:4)
 NSIBTSdata <- getDATRAS(record="CA", survey="NS-IBTS", years=1965:2018, quarters=1:4)
-SNSdata = getDATRAS(record='CA', survey='SNS', years=2002:2018, quarters=1:4)
+SNSdata <- getDATRAS(record='CA', survey='SNS', years=2002:2018, quarters=1:4)
 
 
 ### Long survey not in the North Sea
@@ -67,10 +67,10 @@ EVHOEdata <- getDATRAS(record="CA", survey="EVHOE", years=1997:2018, quarters=1:
 FRCGFSdata <- getDATRAS(record="CA", survey="FR-CGFS", years=1988:2018, quarters=1:4)
 IEIGFSdata <- getDATRAS(record="CA", survey="IE-IGFS", years=2003:2018, quarters=1:4)
 NIGFSdata <- getDATRAS(record="CA", survey="NIGFS", years=2005:2018, quarters=1:4)
-PTIBTSdata = getDATRAS(record='CA', survey='PT-IBTS', years=2002:2018, quarters=1:4)
-SCOWCGFSdata = getDATRAS(record='CA', survey='SCOWCGFS', years=2011:2018, quarters=1:4)
-SPARSAdata = getDATRAS(record='CA', survey='SP-ARSA', years=1996:2018, quarters=1:4)
-SPNORTHdata = getDATRAS(record='CA', survey='SP-NORTH', years=1990:2018, quarters=1:4)
-SPPORCdata = getDATRAS(record='CA', survey='SP-PORC', years=2001:2018, quarters=1:4)
-SWCIBTSdata = getDATRAS(record='CA', survey='SWC-IBTS', years=1985:2018, quarters=1:4)
+PTIBTSdata <- getDATRAS(record='CA', survey='PT-IBTS', years=2002:2018, quarters=1:4)
+SCOWCGFSdata <- getDATRAS(record='CA', survey='SCOWCGFS', years=2011:2018, quarters=1:4)
+SPARSAdata <- getDATRAS(record='CA', survey='SP-ARSA', years=1996:2018, quarters=1:4)
+SPNORTHdata <- getDATRAS(record='CA', survey='SP-NORTH', years=1990:2018, quarters=1:4)
+SPPORCdata <- getDATRAS(record='CA', survey='SP-PORC', years=2001:2018, quarters=1:4)
+SWCIBTSdata <- getDATRAS(record='CA', survey='SWC-IBTS', years=1985:2018, quarters=1:4)
 

@@ -1,4 +1,4 @@
-wd = "C:/Users/b9930/Google ¶³ºÝµwºÐ/publication/compile_DATRAS"
+wd = "C:\\Users\\b9930\\Google ¶³ºÝµwºÐ\\publication\\compile_DATRAS\\"
 setwd(wd)
 
 spec_code_compiled = read.csv("spec_code_compiled_fill.csv")
